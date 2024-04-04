@@ -14,7 +14,7 @@ public class Main {
 		 * .setHost("https://adb-2984540110607491.11.azuredatabricks.net")
 		 * .setToken("dapi13cb25d283d541d115f6700a8ae5322f");
 		 */
-  	WorkspaceClient w = new WorkspaceClient();
+  	//WorkspaceClient w = new WorkspaceClient();
 
 
   	String filePath = "/Volumes/main/default/my-volume/zzz_hello.txt";
